@@ -2,8 +2,9 @@ body {
     /* background-color: rgb(235, 115, 115)  */
     background: rgb(255,212,142);
 /* background: radial-gradient(circle, rgba(255,212,142,1) 0%, rgba(212,87,115,1) 50%, rgba(255,212,142,1) 100%); */
-background: rgb(255,212,142);
-background: linear-gradient(180deg, rgba(255,212,142,1) 0%, rgba(212,87,115,1) 50%, rgba(255,212,142,1) 100%);
+ background: rgb(255,212,142);
+ background: linear-gradient(180deg, rgba(255,212,142,1) 0%, rgba(212,87,115,1) 50%, rgba(255,212,142,1) 100%);
+ font-family: 'Gloria Hallelujah', cursive;
 }
 
 .llamapart1 {
